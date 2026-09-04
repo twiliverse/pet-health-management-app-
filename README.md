@@ -152,9 +152,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-**Project Maintainer:** Jane Doe - [@janedoe](https://twitter.com/janedoe) - hello@pawpalapp.com
+**Project Maintainer:** TWISHA SHRIYAM  - hello@pawpalapp.com
 
-**Project Link:** [https://github.com/username/pawpal](https://github.com/username/pawpal)
+**Project Link:** THIS REPO 
 
 ---
 <p align="center">Made with ❤️ for pets everywhere.</p>
