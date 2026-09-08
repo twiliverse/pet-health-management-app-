@@ -2,7 +2,7 @@
   <br>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4fac2fa5c924d4cb8bb189af91ea/topics/javascript/javascript.png" alt="PawPal Logo" width="100">
   <br>
-  🐾 PawPal: Pet Health Management App
+  🐾 PawPop: Pet Health Management App
   <br>
 </h1>
 
