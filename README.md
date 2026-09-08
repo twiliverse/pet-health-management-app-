@@ -11,7 +11,7 @@
 <p align="center">
   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/username/pawpop/build.yml?style=flat-square&label=Build">
   <img alt="Version" src="https://img.shields.io/github/v/release/username/pawpop?style=flat-square">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/username/pawpal?style=flat-square">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/username/pawpop?style=flat-square">
   <img alt="License" src="https://img.shields.io/github/license/username/pawpal?style=flat-square">
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
 </p>
