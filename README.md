@@ -48,7 +48,7 @@ Whether you have one dog or a whole sanctuary of mixed animals, PawPop adapts to
 
 ## 🛠 Architecture and Tech Stack
 
-PawPal is built using modern, scalable technologies to ensure a smooth user experience and secure data handling.
+PawPop is built using modern, scalable technologies to ensure a smooth user experience and secure data handling.
 
 *   **Frontend:** React.js / React Native, Redux Toolkit, Tailwind CSS
 *   **Backend:** Node.js, Express.js
