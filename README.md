@@ -70,7 +70,7 @@ To run a local instance of PawPop for development and testing, follow these step
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/username/pawpal.git
+    git clone https://github.com/username/pawpop.git
     cd pawpal
     ```
 
@@ -152,7 +152,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-**Project Maintainer:** TWISHA SHRIYAM  - hello@pawpalapp.com
+**Project Maintainer:** TWISHA SHRIYAM  - hello@pawpopapp.com
 
 **Project Link:** THIS REPO 
 
