@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A comprehensive application to track, manage, and optimize your pet's health and wellness journey.</h4>
+<h4 align="center">A comprehensive application to track, manage, and optimize your pet's health and wellness journey and finances.</h4>
 
 <p align="center">
   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/username/pawpal/build.yml?style=flat-square&label=Build">
