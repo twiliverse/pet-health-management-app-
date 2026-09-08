@@ -32,7 +32,7 @@
 
 **PawPop** is a full-stack web and mobile-responsive application designed for pet owners, veterinarians, and animal caretakers. It centralizes all aspects of pet care, ensuring that medical records, vaccination schedules, dietary plans, and daily activity logs are always just a click away.
 
-Whether you have one dog or a whole sanctuary of mixed animals, PawPal adapts to your needs with customizable profiles and dynamic reminders.
+Whether you have one dog or a whole sanctuary of mixed animals, PawPop adapts to your needs with customizable profiles and dynamic reminders.
 
 ## ✨ Key Features
 
