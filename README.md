@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4fac2fa5c924d4cb8bb189af91ea/topics/javascript/javascript.png" alt="PawPal Logo" width="100">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4fac2fa5c924d4cb8bb189af91ea/topics/javascript/javascript.png" alt="PawPop Logo" width="100">
   <br>
   🐾 PawPop: Pet Health Management App
   <br>
