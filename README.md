@@ -59,7 +59,7 @@ PawPop is built using modern, scalable technologies to ensure a smooth user expe
 
 ## 🚀 Installation & Setup
 
-To run a local instance of PawPal for development and testing, follow these steps:
+To run a local instance of PawPop for development and testing, follow these steps:
 
 ### Prerequisites
 *   Node.js (v16.x or higher)
